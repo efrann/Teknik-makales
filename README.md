@@ -16,3 +16,16 @@ https://vvhack.org/
     
  Bilgisayar ağlarına giriş Cisco
 https://www.youtube.com/watch?v=Ezu-ogbpk9I&list=PL4Bh8SSpUGQg5i5_baNQU94LlkWzflJIA
+
+Reverse Engineering beginner workshop
+https://www.begin.re/
+
+BLE Hacking
+https://www.davidsopas.com/my-notes-on-hacking-ble-list-of-resources/
+
+Bir şeyler
+https://tmpout.sh/1/
+
+
+
+
